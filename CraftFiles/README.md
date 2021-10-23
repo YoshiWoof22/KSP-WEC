@@ -1,4 +1,4 @@
-# KSP // WEC AoroSpace Branch
+# KSP // WESA (Woof Engineering & Space Agency)
 
 ### Required Mods/Addons:
 Here is a list of the mods I have in use for most of my craft files - this list might be incomplete.
