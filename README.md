@@ -2,7 +2,7 @@
 Repository about my Kerbal Space Program RSS/RO/RP-1 "WEC Aerospace" Career and related configs - which has been going since 2021.
 
 [>>> RO/RP1 Custom Configs <<<](https://github.com/YoshiWoof22/KSP-WEC/tree/master/Configs)
-[>>> 2RO/RP1 kOS Scripts <<<](https://github.com/YoshiWoof22/KSP-WEC/tree/master/kOS)
+| [>>> RO/RP1 kOS Scripts <<<](https://github.com/YoshiWoof22/KSP-WEC/tree/master/kOS)
 
 Additional Configs & Scripts will be added once I feel they are suited for distribution again.
 
